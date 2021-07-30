@@ -1,0 +1,3 @@
+LOC PORTAL
+- Membuat Portal untuk penggunaan CAPA system
+- Membuat Portal untuk penggunaan Requisition
