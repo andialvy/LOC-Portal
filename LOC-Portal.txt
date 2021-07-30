@@ -1,3 +1,4 @@
 LOC PORTAL
 - Membuat Portal untuk penggunaan CAPA system
 - Membuat Portal untuk penggunaan Requisition
+- Membuat Portal untuk penggunaan document control
